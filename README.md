@@ -1,6 +1,6 @@
-<img width="455" height="607" alt="截屏2026-05-24 11 38 32" src="https://github.com/user-attachments/assets/5142d918-be66-43ce-b74e-2e0490ec38f6" />
-<img width="456" height="606" alt="截屏2026-05-24 11 38 43" src="https://github.com/user-attachments/assets/1f992672-90ee-4fb1-9192-163849d26505" />
-<img width="457" height="605" alt="截屏2026-05-24 11 38 13" src="https://github.com/user-attachments/assets/6b31f74b-360b-4b30-b23c-ed2e87e83881" />
+<img width="180" height="240" alt="截屏2026-05-24 11 38 32" src="https://github.com/user-attachments/assets/5142d918-be66-43ce-b74e-2e0490ec38f6" />
+<img width="180" height="240" alt="截屏2026-05-24 11 38 43" src="https://github.com/user-attachments/assets/1f992672-90ee-4fb1-9192-163849d26505" />
+<img width="180" height="240" alt="截屏2026-05-24 11 38 13" src="https://github.com/user-attachments/assets/6b31f74b-360b-4b30-b23c-ed2e87e83881" />
 
 
 ## Installing
