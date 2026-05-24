@@ -13,7 +13,7 @@
 
 ## Team
 - Designer: @王大鱼 Zeon
-- Code Engineers: @Whimco, @风眼, @咩咩睡一天, @0x1abin
+- Code: @Whimco, @风眼, @咩咩睡一天, @0x1abin
 
 ## Thanks
 1. Special thanks to the following open-source projects and their contributors:
