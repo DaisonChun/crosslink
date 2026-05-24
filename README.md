@@ -1,4 +1,5 @@
-<img width="960" height="1280" alt="crosslink-got-an-english-translation-v0-otvm18eshp2h1" src="https://github.com/user-attachments/assets/cdce83cd-1130-4d1d-b245-cab7c86b1a6a" />
+<img width="350" height="400" alt="crosslink" src="https://github.com/user-attachments/assets/8636c798-4fed-4f07-bdf6-64c51c79ba1a" />
+
 
 ## Installing
 
